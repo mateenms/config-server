@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Ms bank accounts related Prod APIs "
+  message: "Welcome to Ms bank accounts related Production APIs "
   contactDetails:
     name: "Prod Mohammad Mateen - Developer"
     email: "{cipher}4a3808e7dc07f71535e0a55820d42114268f2eb8dc1765c41e170df5eb167909"
