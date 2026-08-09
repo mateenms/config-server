@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Ms bank accounts related prod APIs "
+  message: "Welcome to Ms bank accounts related Production APIs "
   contactDetails:
     name: "Mohammad Mateen - Developer"
     email: "mateen@ms.com"
