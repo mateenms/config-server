@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Ms bank accounts related QA new APIs "
+  message: "Welcome to Ms bank accounts related QA updated APIs "
   contactDetails:
     name: "QA Mohammad Mateen - Developer"
     email: "mateen@ms.com"
